@@ -1,4 +1,3 @@
-# GITHUB-mariaveronicasuarez
 
 # ¡Hola! Soy María Verónica Suárez Vidal 👋
 
