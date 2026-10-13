@@ -2,7 +2,7 @@
 
 # ¡Hola! Soy María Verónica Suárez Vidal 👋
 
-**Licenciada en Ciencias Administrativas (Gerencia) | TSU en Logística | Data Scientist en formación**
+**Licenciada en Ciencias Administrativas (Gerencia) | TSU en Logística | Data Scientist **
 
 Combinó el análisis de datos (**Python, SQL, Power BI**) con experiencia en **logística, CRM y operaciones**. Mi enfoque principal es optimizar procesos operativos traduciendo datos complejos en decisiones estratégicas que generan eficiencia real.
 
