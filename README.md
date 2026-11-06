@@ -9,7 +9,7 @@ Combinó el análisis de datos (**Python, SQL, Power BI**) con experiencia en **
 
 ### 🚀 Sobre mí
 
-- 🎓 **Formación:** Licenciada en Ciencias Administrativas (Unimet), TSU en Logística (UNITEC) y estudiante de Data Science & Machine Learning en 4Geeks Academy.
+- 🎓 **Formación:** Licenciada en Ciencias Administrativas (Unimet), TSU en Logística (UNITEC) y Data Science & Machine Learning en 4Geeks Academy.
 - 💡 **Experiencia clave:** Análisis de datos logísticos y previsión de demanda en **Empresas Polar**, gestión de bases de datos CRM en **TradePoint Express**.
 - 🔭 **Actualmente enfocado en:** Modelado predictivo, análisis avanzado de datos y proyectos de Machine Learning.
 - 🌱 **Aprendiendo:** Scikit-learn, TensorFlow, NLTK y técnicas avanzadas de Data Science & ML.
